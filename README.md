@@ -60,14 +60,14 @@ To run the SQL queries and reproduce the insights in this project, you'll need:
 
 - An SQL database management system (DBMS) such as MySQL, PostgreSQL, or SQLite.
 - Access to the provided dataset.
-- A basic understanding of SQL query syntax and functions.
+- An indepth understanding of SQL query syntax and functions.
 
 ## Usage
 
-1. Clone this repository to your local machine.
+1. Make a local copy of this repository.
 2. Set up your SQL database environment and import the dataset.
 3. Open your DBMS and execute the provided SQL queries to reproduce the insights.
-4. Review the results and use the insights and recommendations for decision-making.
+4. Examine the findings and make decisions based on the conclusions and suggestions.
 
 ## Contributing
 
